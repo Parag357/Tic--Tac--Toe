@@ -1,1 +1,1 @@
-"A simple Tic--Tac--Toe (Cross-Zero) game made using python" 
+# A simple Tic-Tac-Toe (Cross-Zero) game made using python. 
