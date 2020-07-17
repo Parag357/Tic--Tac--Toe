@@ -1,5 +1,7 @@
-# A simple Tic-Tac-Toe (Cross-Zero) game made using python. Below is a sample of the gameplay: 
 
+[![forthebadge made-with-python](http://ForTheBadge.com/images/badges/made-with-python.svg)](https://www.python.org/)
+
+# A simple Tic-Tac-Toe (Cross-Zero) game made using python. Below is a sample of the gameplay: 
 
 Welcome to TIC - TAC - TOE 
 
